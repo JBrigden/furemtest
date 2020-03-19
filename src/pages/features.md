@@ -33,7 +33,9 @@ sections:
         url: /contact
 menus:
   main:
-    title: Features
+    title: Services
     weight: 2
+  secondary:
+    title: Services
 template: landing
 ---
