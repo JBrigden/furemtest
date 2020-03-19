@@ -5,20 +5,18 @@ sections:
     section_id: Services
     title: Video and Photo Work
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Creative solutions with a strategic focus. We grow brands, create
+      experiences and its all done through video and photo.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * Photography or Photo Editing to the best it can be, the product you
+      asked for exactly how you dreamed it.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * Videography or Video Editing - Completed in professional programs to a
+      professional standard.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      * We provide other services too which include but are not limited to:
+      Writing Tasks and Social Media Management.
     image: images/feature1.png
     bg: gray
     actions:
