@@ -21,10 +21,12 @@ sections:
     featureslist:
       - title: The Best Feature of Your Services
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+          We want to tell your brand’s story with quality content that will help
+          you inspire. That means we must set an example.
+
+
+          [](https://hopeful-volhard-43d391.netlify.com/#collapse-1)
+        image: ''
         actions:
           - label: Learn More
             url: /features
