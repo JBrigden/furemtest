@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Welcome to Furem Media
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      A creative and digital agency that specialises in branded services,
+      digital advertising and photography/videography.
     image: images/hero.png
     actions:
       - label: Learn More
