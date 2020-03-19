@@ -16,21 +16,21 @@
   },
   "footer": {
     "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_content": "Stay up to date with Furem Media",
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "Bringing you excellence.",
     "logo_img": "",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Furem Media. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Made with love by Josh Brigden",
+        "url": "https://www.instagram.com/joshuabrigden/",
         "new_window": true
       }
     ],
-    "nav_title": "Test",
+    "nav_title": "Company",
     "has_nav": true
   }
 }
