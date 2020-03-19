@@ -35,7 +35,7 @@ sections:
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
-        image: images/feature2.png
+        image: ''
         actions:
           - label: Learn More
             url: /features
