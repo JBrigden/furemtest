@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Services
 sections:
   - type: section_content
     section_id: Services
@@ -26,11 +26,11 @@ sections:
         url: '#'
   - type: section_cta
     section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Contact Us for a Quote!
+    subtitle: You can also contact us directly at contact@furemmedia.co.uk
     actions:
-      - label: Get Started
-        url: '#'
+      - label: Contact
+        url: /contact
 menus:
   main:
     title: Features
