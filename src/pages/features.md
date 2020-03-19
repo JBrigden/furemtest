@@ -19,11 +19,7 @@ sections:
       Writing Tasks and Social Media Management.
     image: images/feature1.png
     bg: gray
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
+    actions: []
   - type: section_cta
     section_id: call-to-action
     title: Contact Us for a Quote!
