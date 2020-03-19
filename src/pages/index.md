@@ -19,7 +19,7 @@ sections:
       quis lorem malesuada luctus.
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Creating a brand story.
         content: >-
           We want to tell your brand’s story with quality content that will help
           you inspire. That means we must set an example.
