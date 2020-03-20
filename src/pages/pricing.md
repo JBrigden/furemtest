@@ -1,21 +1,21 @@
 ---
-title: Pricing
+title: Testimonials
 sections:
   - type: section_pricing
     section_id: pricing
-    title: Pricing Plans
+    title: Testimonials
     subtitle: You can have a separate pricing page or list everything on the home page.
     bg: gray
     pricingplans:
-      - title: Basic
-        price: $5/m
+      - title: Photo Work
+        price: Eco-Logical - Northern Bear
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * An event and podcast
+          * dedciated to being
+          * enviromentally sensible
+          * and better our eco knowledge.
         actions:
-          - label: Order Now
+          - label: See Some!
             url: /signup
       - title: Professional
         price: $49/m
@@ -41,7 +41,7 @@ sections:
             url: /signup
   - type: section_faq
     section_id: faq
-    title: Frequently Asked Questions
+    title: 'What they say:'
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     bg: gray
     faqitems:
