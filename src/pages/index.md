@@ -3,49 +3,43 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Welcome to Furem Media
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      A creative and digital agency that specialises in branded services,
+      digital advertising and photography/videography.
     image: images/hero.png
     actions:
       - label: Learn More
         url: /features
   - type: section_features
-    section_id: features
-    title: Features
+    section_id: services
+    title: Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Creative solutions with a strategic focus. We grow brands, create
+      experiences and its all done through video and photo.
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Creating a brand story.
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
+          We want to tell your brand’s story with quality content that will help
+          you inspire. That means we must set an example.
+
+
+          [](https://hopeful-volhard-43d391.netlify.com/#collapse-1)
+        image: ''
+        actions: []
+      - title: Video Work
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
+          Videography or Video Editing - Completed in a professional enviroment
+          to a professional standard.
+        image: ''
+        actions: []
+      - title: Photo Work
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
+          Photography or Photo Editing to the best it can be, the product you
+          asked for exactly how you dreamed it.
+        image: ''
+        actions: []
   - type: section_reviews
     section_id: reviews
     title: Testimonials
