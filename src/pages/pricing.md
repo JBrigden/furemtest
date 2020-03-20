@@ -11,8 +11,8 @@ sections:
         price: Eco-Logical - Northern Bear
         details: |-
           * An event and podcast
-          * dedciated to being
-          * enviromentally sensible
+          * dedicated to being
+          * environmentally sensible
           * and better our eco knowledge.
         actions:
           - label: See it!
