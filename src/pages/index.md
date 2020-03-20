@@ -44,7 +44,7 @@ sections:
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        image: images/feature3.png
+        image: ''
         actions:
           - label: Learn More
             url: /features
