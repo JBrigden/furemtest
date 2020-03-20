@@ -7,7 +7,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     bg: gray
     pricingplans:
-      - title: Photo Work
+      - title: Video Work
         price: Eco-Logical - Northern Bear
         details: |-
           * An event and podcast
@@ -15,7 +15,7 @@ sections:
           * enviromentally sensible
           * and better our eco knowledge.
         actions:
-          - label: See Some!
+          - label: See it!
             url: /signup
       - title: Professional
         price: $49/m
