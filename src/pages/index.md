@@ -30,7 +30,7 @@ sections:
         actions: []
       - title: Video Work
         content: >-
-          Videography or Video Editing - Completed in a professional enviroment
+          Videography or Video Editing - Completed in a professional environment
           to a professional standard.
         image: ''
         actions: []
