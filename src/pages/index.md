@@ -12,11 +12,11 @@ sections:
       - label: Learn More
         url: /features
   - type: section_features
-    section_id: features
-    title: Features
+    section_id: services
+    title: Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Creative solutions with a strategic focus. We grow brands, create
+      experiences and its all done through video and photo.
     bg: gray
     featureslist:
       - title: Creating a brand story.
@@ -30,20 +30,18 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Video Work
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Videography or Video Editing - Completed in a professional enviroment
+          to a professional standard.
         image: ''
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
+      - title: Photo Work
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Photography or Photo Editing to the best it can be, the product you
+          asked for exactly how you dreamed it.
         image: ''
         actions:
           - label: Learn More
