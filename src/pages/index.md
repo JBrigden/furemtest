@@ -27,25 +27,19 @@ sections:
 
           [](https://hopeful-volhard-43d391.netlify.com/#collapse-1)
         image: ''
-        actions:
-          - label: Learn More
-            url: /features
+        actions: []
       - title: Video Work
         content: >-
           Videography or Video Editing - Completed in a professional enviroment
           to a professional standard.
         image: ''
-        actions:
-          - label: Learn More
-            url: /features
+        actions: []
       - title: Photo Work
         content: >-
           Photography or Photo Editing to the best it can be, the product you
           asked for exactly how you dreamed it.
         image: ''
-        actions:
-          - label: Learn More
-            url: /features
+        actions: []
   - type: section_reviews
     section_id: reviews
     title: Testimonials
